@@ -1,0 +1,5 @@
+streamlit
+groq
+pandas
+streamlit-mic-recorder
+plotly          ← add this
